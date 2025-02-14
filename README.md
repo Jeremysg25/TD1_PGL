@@ -1,5 +1,6 @@
 # TD1_PGL
 <<<<<<< HEAD
+<<<<<<< HEAD
 2
 3
 4
@@ -17,3 +18,10 @@ cette amour qu'on a pour toi
 qui ne cessera jamais
 après tant d'années
 >>>>>>> Jules
+=======
+coucou les copains
+woooo
+ssalut
+python est genial
+vs code vs git bash
+>>>>>>> alexandre
